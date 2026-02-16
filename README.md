@@ -7,7 +7,7 @@ This is my main project for my 300L IT prep. It’s a command-line tool written 
 1. Clone this repository.
 2. Ensure Python 3.x is installed.
 3. Open your terminal and run: `python app.py`
-4. Select anY option (1-4).
+4. Select any option (1-4).
 5. The system will automatically generate the `university.db` file upon execution.
 
-6. A screenshot of how the result will look like has been added to my portfolio.
+ A screenshot of how the result will look like has been added to my portfolio.
